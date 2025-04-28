@@ -18,7 +18,7 @@ During the making of the visualizations, I was running into issues trying to lin
 smaller, inconsistent information and abstract locations, I decided that it was not going to work for my visuals. I needed to display the amount of damages done in USD 
 so I decided on making a heat map that shows how consistent certain states have natural disasters occur to show the risk of possibly staying that state. Since I couldn't
 find another reliable dataset I figured this was a fitting alternative. Even tried the data from: https://www.emdat.be/ but was getting mix match results that were
-also inconsistent.
+also inconsistent due to its generalization of "storms".
 
 ## Design Decisions
 
