@@ -36,4 +36,4 @@ certain disasters to show how much more certain disasters are compared to others
 I know I've already talked about the damages but I feel as if I could've either found a reliable dataset that recorded the cost in damages of natural disasters or researched every
 historical disaster that has hit the US to acquire the damages, this would've helped give audiences a better outlook on natural disasters. I would've like to include 
 another heat map showing the damages or even a split graphs that showed damages done by what disaster in a state. I could have also showed a trend line showing how much 
-more money disasters cost nowadays vs in the past. 
+more money disasters cost overtime. 
